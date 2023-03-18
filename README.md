@@ -74,14 +74,15 @@ f1-score=2 * precision * recall / (precision + recall)
 基本上各式的技術指標的效果皆不太好(多數在5成左右)，仰賴單一指標預測隔天漲跌跟盲猜差不多
 
 ### 2.return(tuning=RandomizedSearchCV)
-
-![](https://i.imgur.com/MiOyKss.png =350x)![](https://i.imgur.com/QIe9xW1.png =350x)
+![](https://i.imgur.com/MiOyKss.png =350x)
+![](https://i.imgur.com/QIe9xW1.png =350x)
 
 
 ### 3. 各式Classifier(tuning=RandomizedSearchCV)
 
 * with 10 indicator 
-![](https://i.imgur.com/I3qbgjJ.png =340x)![](https://i.imgur.com/3fx8WVS.png =340x)
+![](https://i.imgur.com/I3qbgjJ.png =340x)
+![](https://i.imgur.com/3fx8WVS.png =340x)
 
 和單一技術指標或一般的return也都差不多
 
